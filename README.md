@@ -26,7 +26,7 @@ Este proyecto corresponde a la Actividad 2 del laboratorio. Resuelve el problema
 
 ### Clonar el repositorio de la actividad:
 ```bash
-git clone https://github.com/GabZac/Actividad-2-Hola-Mundo.git
+git clone https://github.com/Ailuna77/Actividad-2-Hola-Mundo.git
 ```
 
 ### Dirigirse a la carpeta del reto práctico:
